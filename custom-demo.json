@@ -5,8 +5,8 @@
       "name": "champonthis",
       "characterClass": "human",
       "edition": "custom-demo",
-      "iconUrl": "https://ghs.champonthis.de/static/icons/champonthis.svg",
-      "thumbnailUrl": "https://ghs.champonthis.de/static/thumbnails/champonthis.png",
+      "iconUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.svg",
+      "thumbnailUrl": "https://lurkars.github.io/ghs-custom-demo/champonthis.png",
       "stats": [
         {
           "level": 1,
@@ -455,7 +455,7 @@
       "name": "copycat",
       "count": 10,
       "edition": "custom-demo",
-      "thumbnailUrl": "https://ghs.champonthis.de/static/thumbnails/copycat.svg",
+      "thumbnailUrl": "https://lurkars.github.io/ghs-custom-demo/copycat.svg",
       "stats": [
         {
           "actions": [],
